@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+mlruns/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+fin_env/
+venv/
+*.ipynb_checkpoints
