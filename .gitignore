@@ -1,3 +1,4 @@
+forecast_env/
 data/raw/
 data/processed/
 mlruns/
@@ -5,6 +6,4 @@ mlruns/
 __pycache__/
 *.pyc
 .DS_Store
-fin_env/
-venv/
-*.ipynb_checkpoints
+.ipynb_checkpoints/
