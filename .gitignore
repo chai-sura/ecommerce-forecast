@@ -6,4 +6,5 @@ mlruns/
 __pycache__/
 *.pyc
 .DS_Store
-.ipynb_checkpoints/
+.ipynb_checkpoints/forecast_env/
+data/
